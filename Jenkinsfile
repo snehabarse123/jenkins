@@ -9,7 +9,7 @@ pipeline {
      steps {
 
 
-      echo "this is 23q1 branch"
+      echo "this is 23q2 branch"
       }  
 }
 }
